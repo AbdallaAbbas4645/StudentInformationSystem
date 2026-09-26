@@ -49,7 +49,7 @@ public class Main {
         "Doe",
         LocalDate.of(2004, 5, 12),
         Gender.MALE,
-        "abdalla@example.com",
+       "john.doe@example.com",
         "5551112233",
         "Istanbul",
         program,
