@@ -43,10 +43,10 @@ public class Main {
 );
        Student student = new Student(
         "STD-001",
-        "230504645",
+       "202600001",
         "12345678901",
-        "Abdalla",
-        "Abbas",
+       "John",
+        "Doe",
         LocalDate.of(2004, 5, 12),
         Gender.MALE,
         "abdalla@example.com",
